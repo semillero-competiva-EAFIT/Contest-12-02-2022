@@ -1,4 +1,10 @@
-# Contest-12-02-2022
-Codigos usados en la eliminatoria interna del semillero de progrmacion competiva de eafit, en el [contest](https://codeforces.com/group/Ct1cN5bG36/contest/368653) 
+# Contests
 
-![Resultados del contest](https://github.com/semillero-competiva-EAFIT/Contest-12-02-2022/blob/main/misc/img/1.jpeg?raw=true)
+Codigos y informacion de algunos contest en los que a participado el semillero.
+
+contest:
+
+- Contest-12-02-2022
+
+
+
